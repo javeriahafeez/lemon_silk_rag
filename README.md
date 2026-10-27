@@ -27,11 +27,6 @@ At a high level, the application has an ingestion side that prepares HR policy d
 
 ### Application Flow
 
-## Solution Architecture
-
-At a high level, the application has an ingestion side that prepares HR policy documents for retrieval and a query-time side that retrieves relevant policy information and uses it to ground the LLM response.
-
-### Application Flow
 
 ```mermaid
 flowchart LR
